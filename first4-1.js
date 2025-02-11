@@ -5,6 +5,6 @@ console.log(friends);
 friends.shift();
 console.log(friends);
 
-// add element from last --->
+// add element from first --->
 friends.unshift('raju');
 console.log(friends);
