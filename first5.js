@@ -1,5 +1,5 @@
 const friends = ['raju', 'saju', 'jadu', 'modu']
-//locking for someone 
+//locking for someone --->
 console.log(friends.includes('jadu'));
 console.log(friends.includes("rahim"))
 
@@ -11,14 +11,14 @@ console.log(friends.includes("rahim"))
 //     console.log('no party');
 // }
 
-//locking for someone position or indexof
+//locking for someone position or indexof --->
 console.log(friends.indexOf('saju'));
-// -1 if there is nothing
+// -1 if there is nothing --->
 console.log(friends.indexOf('rahim'));
 
 let fullName = [];
 let foodName = 25;
-// array test
+// array test --->
 console.log(Array.isArray(friends));
 console.log(Array.isArray(fullName));
 console.log(Array.isArray(foodName));
