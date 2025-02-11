@@ -3,7 +3,7 @@ const friends = ['raju', 'saju', 'jadu', 'modu']
 console.log(friends.includes('jadu'));
 console.log(friends.includes("rahim"))
 
-//locking for someone, after party
+//locking for someone, after party--->
 // if(friends.includes('modu')){
 //     console.log('party');
 // }
