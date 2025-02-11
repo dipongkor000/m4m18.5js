@@ -8,14 +8,6 @@
 let friends = ['kalam', 'salam', 'aklam'];
 console.log(friends);
 
-// add element from last --->
-friends.push('rahim');
-console.log(friends);
-
-// last element out the array --->
-let out1 = friends.pop();
-console.log(friends);
-
 let out2 = friends.pop();
 console.log(friends);
 
