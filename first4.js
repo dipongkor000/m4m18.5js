@@ -5,8 +5,9 @@
 // console.log(numbers);
 
 let friends = ['kalam', 'salam', 'aklam'];
-console.log(friends);
 
+let out1 = friends.pop();
+console.log(friends);
 let out2 = friends.pop();
 console.log(friends);
 
